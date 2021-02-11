@@ -1,0 +1,19 @@
+.Formulario{
+    margin-bottom: 50px;
+    border: 1px solid black; 
+    background: url(src\app\components\formulario\google-wallpaper-desktop-For-Desktop-Wallpaper.webp);
+
+}
+.Casilla{
+    display:flex;
+    flex-direction:column;
+    margin: 0 auto;
+    padding: 15px;
+    
+}
+
+.Boton{
+    margin-left: 15px;
+    margin-bottom: 10px;
+}
+
